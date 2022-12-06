@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aayushi1995
-- 👀 I’m interested in Javascript, React, Tyepscript, storybook.
+- 👀 I have expertise in Javascript, React, Tyepscript, storybook.
 - 🌱 I’m currently learning web3.js
 - 💞️ I’m looking to collaborate on a component library for react.
 - 📫 How to reach me : aayushi.kambriya5@gmail.com
